@@ -1,2 +1,2 @@
 # CryptoSteam
-CryptoSteam, an revolutionary blockchain games platform
+CryptoSteam, a revolutionary blockchain games platform
